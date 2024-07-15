@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="httpclient5-5.1.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../JARs/httpclient5-5.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARs/httpcore5-5.1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARs/jackson-annotations-2.15.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARs/jackson-core-2.15.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../JARs/jackson-databind-2.15.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
